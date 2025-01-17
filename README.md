@@ -1,6 +1,6 @@
 # HitTrack: Song Popularity Predictor
 
-## HitTrack is an innovative machine learning-based system that predicts the popularity of songs. By analyzing key features like tempo, energy, and genre, it provides insights into a song's potential success.
+## HitTrack is innovative machine learning-based system that predicts the popularity of songs. By analyzing key features like tempo, energy, and genre, it provides insights into a song's potential success.
 Features
 
     Popularity Prediction: Predicts song popularity using advanced machine learning models.
