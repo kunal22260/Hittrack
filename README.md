@@ -25,4 +25,4 @@ Features
 
     Upload the song dataset (e.g., in CSV format).
     The model analyzes key features and predicts song popularity.
-    View predictions and insights via visualizations.
+    View predictions and insights via visualization.
